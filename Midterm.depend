@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1491016712 source:c:\users\vkmamidi\desktop\game development\midterm\main.cpp
+	<windows.h>
+	<GLScene.h>
+	<stdlib.h>
+	<iostream>
+	<Inputs.h>
+	<windows.h>
+
+1490949064 c:\users\vkmamidi\desktop\game development\midterm\include\glscene.h
+	<windows.h>
+	<string.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<iostream>
+
+1490845118 c:\users\vkmamidi\desktop\game development\midterm\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1491350586 c:\users\vkmamidi\desktop\game development\midterm\include\inputs.h
+	<windows.h>
+	<iostream>
+	<Model.h>
+	<Parallax.h>
+	<Player.h>
+	<Shootball.h>
+
+1490949044 c:\users\vkmamidi\desktop\game development\midterm\include\model.h
+	<windows.h>
+	<string.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<GL/glut.h>
+	<iostream>
+
+1490949032 c:\users\vkmamidi\desktop\game development\midterm\include\parallax.h
+	<gl/gl.h>
+	<windows.h>
+	<string.h>
+	<iostream>
+
+1491428100 c:\users\vkmamidi\desktop\game development\midterm\include\player.h
+	<TextureLoader.h>
+	<Timer.h>
+
+1490949088 c:\users\vkmamidi\desktop\game development\midterm\include\textureloader.h
+	<SOIL.h>
+	<gl/gl.h>
+
+1490948044 c:\users\vkmamidi\desktop\game development\midterm\include\soil.h
+
+1490949080 c:\users\vkmamidi\desktop\game development\midterm\include\timer.h
+	<time.h>
+
+1491427375 c:\users\vkmamidi\desktop\game development\midterm\include\shootball.h
+
+1490948974 source:c:\users\vkmamidi\desktop\game development\midterm\src\gllight.cpp
+	"GLLight.h"
+
+1490949072 c:\users\vkmamidi\desktop\game development\midterm\include\gllight.h
+	<GLScene.h>
+
+1491428040 source:c:\users\vkmamidi\desktop\game development\midterm\src\glscene.cpp
+	<GLScene.h>
+	<GLLight.h>
+	<Inputs.h>
+	<Model.h>
+	<Parallax.h>
+	<Sprite.h>
+	<Player.h>
+	<Shootball.h>
+	<iostream>
+
+1490949096 c:\users\vkmamidi\desktop\game development\midterm\include\sprite.h
+
+1491428005 source:c:\users\vkmamidi\desktop\game development\midterm\src\inputs.cpp
+	<Inputs.h>
+	<iostream>
+
+1490948942 source:c:\users\vkmamidi\desktop\game development\midterm\src\model.cpp
+	<Model.h>
+	<TextureLoader.h>
+
+1490948934 source:c:\users\vkmamidi\desktop\game development\midterm\src\parallax.cpp
+	<Parallax.h>
+	<TextureLoader.h>
+
+1491428134 source:c:\users\vkmamidi\desktop\game development\midterm\src\player.cpp
+	"Player.h"
+
+1493859145 source:c:\users\vkmamidi\desktop\game development\midterm\src\shootball.cpp
+	"Shootball.h"
+	<windows.h>
+	<string.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<TextureLoader.h>
+	<iostream>
+	<math.h>
+	<iostream>
+	<Timer.h>
+
+1490948996 source:c:\users\vkmamidi\desktop\game development\midterm\src\sprite.cpp
+	<Sprite.h>
+	<TextureLoader.h>
+	<windows.h>
+	<gl/gl.h>
+	<string>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iostream>
+	<string>
+	<Timer.h>
+
+1490948990 source:c:\users\vkmamidi\desktop\game development\midterm\src\textureloader.cpp
+	"TextureLoader.h"
+
+1490948982 source:c:\users\vkmamidi\desktop\game development\midterm\src\timer.cpp
+	"Timer.h"
+
